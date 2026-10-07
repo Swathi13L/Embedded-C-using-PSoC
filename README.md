@@ -75,8 +75,6 @@ and tracking my progress through GitHub.
 
 ---
 
-## 📈 My Goal
 
-> Learn → Practice → Build → Document → Improve 🚀
 
 🌱 Small steps every day.
